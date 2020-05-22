@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd480f6b257551a4eba0c2c80cbe030a, type: 3}
+  m_Name: Armor Item
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 5287066625456506921, guid: 941fa6edc64ce0544a9133bd3449a2ca,
+    type: 3}
+  itemSprite: {fileID: 21300000, guid: de1657ea43288444e95e08bae20bf8ac, type: 3}
+  itemName: Armor
+  itemLocalPosition: {x: 0.006, y: -1.51, z: 0.116}
+  itemLocalRotation: {x: 0, y: 0, z: 0}
